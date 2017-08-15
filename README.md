@@ -12,15 +12,17 @@ A starting AI made for fun and will include better features such as voice comman
 
 You may also teach your own A.L.I.C.E what you would like it to say as it asks for you to teach it things it does not know. These answers are not yet on a server and are manifested with in the program it's self.
 
-Built in commands:
+##### Built in commands:
 (Commands are NOT case sensitive)
 ```
-Hello                                                       hi
+Command                                Abbreviation
+
+Hello                                  Hi
 How are you
 What is your name
 What is your favorite video
 Change name
-Exit                                                        Bye
+Exit                                   Bye
 Change color
 How do you hack
 ```
