@@ -22,6 +22,6 @@ You may also teach your own A.L.I.C.E what you would like it to say as it asks f
   Exit                               bye
   Change color
   How do you hack
-  
+  s
   
 Other commands you may teach A.L.I.C.E by saying something I.E "im sad" now A.L.I.C.E will ask you a couple of questions you will tell A.L.I.C.E what to say in response to you saying "im sad"
