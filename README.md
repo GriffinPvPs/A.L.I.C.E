@@ -14,7 +14,7 @@ You may also teach your own A.L.I.C.E what you would like it to say as it asks f
 (Commands are NOT case sensitive)
   Command                            Abbreviation
   
-  hello                              hi
+  Hello                              hi
   How are you
   What is your name
   What is your favorite video
