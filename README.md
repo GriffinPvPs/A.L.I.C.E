@@ -30,4 +30,4 @@ How do you hack
   
 Other commands you may teach A.L.I.C.E by saying something I.E "im sad" now A.L.I.C.E will ask you a couple of questions you will tell A.L.I.C.E what to say in response to you saying "im sad". You may send suggestions, bug reports, etc to AliceAISuggestions@gmail.com
 
-This A.I is a Prototype and is teachable.Prototype Version: 0.0.5 NOTE: This AI is currently in BETA and is only being to a few select people for testing.
+This A.I is a prototype and is teachable. Prototype Version: 0.0.5 NOTE: This AI is currently in BETA and is only being to a few select people for testing.
