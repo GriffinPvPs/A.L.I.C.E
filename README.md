@@ -26,6 +26,7 @@ Exit                                   Bye
 Change color
 How do you hack
 What time is it
+I want to play diep
 ```
   
   
