@@ -25,6 +25,7 @@ Change name
 Exit                                   Bye
 Change color
 How do you hack
+What time is it
 ```
   
   
