@@ -2,7 +2,7 @@
 ```
 A.L.I.C.E
     Artificial
-    Logic
+    Learning
     Intelligence
     Computive
     Engine
