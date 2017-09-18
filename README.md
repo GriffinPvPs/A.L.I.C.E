@@ -1,3 +1,8 @@
+# TEMPORARY UPDATE:
+## The A.L.I.C.E. Project is going to be on hold and revamped, old source code has been lost and we will completely remake the application. Development shall resume on October 4 2017.
+
+
+
 # A.L.I.C.E
 ```
 A.L.I.C.E
